@@ -83,7 +83,7 @@ SendForm.onclick = function(){
 }*/
 
 jQuery('.SendF').click( function() {
-	alert("туть0")
+	alert("туть00")
 	var form = jQuery(this).closest('form');
 
 	if (validateForm() == "" ) {
